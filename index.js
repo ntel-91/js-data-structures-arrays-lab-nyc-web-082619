@@ -9,11 +9,11 @@ function destructivelyPrependDriver(name) {
 }
 
 function destructivelyRemoveLastDriver() {
-  drivers.
+  drivers.pop();
 }
 
 function destructivelyRemoveFirstDriver() {
-  
+  drivers.shift();
 }
 
 function appendDriver(name) {
