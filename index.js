@@ -9,7 +9,7 @@ function destructivelyPrependDriver(name) {
 }
 
 function destructivelyRemoveLastDriver() {
-  
+  drivers.
 }
 
 function destructivelyRemoveFirstDriver() {
